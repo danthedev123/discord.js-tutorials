@@ -12,4 +12,5 @@ In `config.json` , replace "totally-valid-token" with your bot's  token and "!" 
 # Links
 
 [Discord.js Tutorials](https://www.youtube.com/playlist?list=PL33h3vU1piX2Ah1nNDg_Gt-lIJwO1-ZcZ)
+
 [Discord server](https://discord.gg/RSWWg6N2)
